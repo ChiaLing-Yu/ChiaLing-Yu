@@ -2,7 +2,7 @@
 
 ## 探討主題：親緣關係與親代照顧
 
-
+![https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Phyllopteryx_taeniolatus1.jpg/800px-Phyllopteryx_taeniolatus1.jpg](https://commons.wikimedia.org/w/index.php?curid=137447)
 
 ### 一、 影片來源
 
@@ -48,14 +48,15 @@
 讓我主動去找與課程相關的資料，這樣不只能使我印象深刻，也能驗證書本裡的內容是否正確，我想
 這應該是我做這份報告最大的收穫吧！
 
-
-
-
-
-
-
-
-
+### 五、 參考文獻
+    
+1. 圖片https://commons.wikimedia.org/w/index.php?curid=137447
+2. 書籍 奇妙的動物親子關係。蘇珊．艾波特。皇冠叢書。2001
+3. 網站
+ [http://www.epochtimes.com/b5/14/4/29/n4142895.htm](http://www.epochtimes.com/b5/14/4/29/n4142895.htm)
+ [https://zh.wikipedia.org/wiki/%E8%8D%89%E6%B5%B7%E9%BE%8D](https://zh.wikipedia.org/wiki/%E8%8D%89%E6%B5%B7%E9%BE%8D)
+ [http://animals.mom.me/differences-between-sea-dragon-seahorse-5341.html](http://animals.mom.me/differences-between-sea-dragon-seahorse-5341.html)
+    
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ChiaLing-Yu/ChiaLing-Yu/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
