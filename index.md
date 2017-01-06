@@ -1,12 +1,12 @@
-#動物行為學影片分享報告
+動物行為學影片分享報告
 
-##探討主題：親緣關係與親代照顧
+探討主題：親緣關係與親代照顧
 
 
-```markdown
+
 ### 一、 影片來源
 
-[Dragon Seahorse - giving birth](https://www.youtube.com/watch?v=S9R1DIDVt9A&t=8s)
+![Dragon Seahorse - giving birth](https://www.youtube.com/watch?v=S9R1DIDVt9A&t=8s)
 
 ### 二、 以Why? What? How?等三類問題方向擇一來說明該影片內容
      
@@ -47,7 +47,7 @@
     很慶幸，我可以認識、了解這個特別的生物。也因為這個報告，讓我重新思考老師上課的內容，
 讓我主動去找與課程相關的資料，這樣不只能使我印象深刻，也能驗證書本裡的內容是否正確，我想
 這應該是我做這份報告最大的收穫吧！
-```
+
 
 
 
