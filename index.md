@@ -2,7 +2,7 @@
 
 ## 探討主題：親緣關係與親代照顧
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Phyllopteryx_taeniolatus1.jpg/800px-Phyllopteryx_taeniolatus1.jpg](https://commons.wikimedia.org/w/index.php?curid=137447)
+![image](https://commons.wikimedia.org/w/index.php?curid=137447)
 
 ### 一、 影片來源
 
@@ -50,7 +50,7 @@
 
 ### 五、 參考文獻
     
-1. 圖片https://commons.wikimedia.org/w/index.php?curid=137447
+1. 圖片https://commons.wikimedia.org/w/index.php?curid=137447 
 2. 書籍 奇妙的動物親子關係。蘇珊．艾波特。皇冠叢書。2001
 3. 網站
  [http://www.epochtimes.com/b5/14/4/29/n4142895.htm](http://www.epochtimes.com/b5/14/4/29/n4142895.htm)
